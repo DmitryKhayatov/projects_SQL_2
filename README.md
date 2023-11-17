@@ -1,1 +1,1 @@
-# projects_SQL_2
+Some SQL projects completed during training and practice.
